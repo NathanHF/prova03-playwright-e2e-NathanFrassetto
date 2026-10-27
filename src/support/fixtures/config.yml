@@ -5,3 +5,5 @@ application:
   sauceDemo: "https://www.saucedemo.com/"
   farmacia: "https://triersistemas.com.br/contato"
   empresa: "https://www.betha.com.br/contato"
+  parabank: 'https://parabank.parasoft.com/parabank/index.htm'
+  wikipedia: "https://pt.wikipedia.org/"
