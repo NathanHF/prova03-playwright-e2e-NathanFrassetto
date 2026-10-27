@@ -25,7 +25,7 @@ export default class WikipediaPage {
         await inputBusca.waitFor({ state: 'visible' });
         await inputBusca.fill(termo);
         
-        // CLIQUE FÍSICO: Substitui o 'Enter' e a submissão JavaScript.
+        
         // O Playwright vai mover o rato virtual e clicar na lupa,
         // garantindo a navegação imediata.
         await botaoBusca.click();
